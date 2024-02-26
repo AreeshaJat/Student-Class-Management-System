@@ -2,7 +2,6 @@
 /**
 * @author Areesha Jat
 * @version December 1, 2020
-* Student Number: 1078815
 * Assignment 3
 */
 
